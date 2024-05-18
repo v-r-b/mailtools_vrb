@@ -1,4 +1,4 @@
-from mailtools_vrb import *
+from mailtools_vrb import EasySSLSendmail
 
 #################################################
 # Sample usage: EasySSLSendmail
